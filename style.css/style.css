@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.main-content {
+
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+    color: #151414;
+    text-align: right;
+    margin-left: 750px;
+    margin-right: 230px;
+    padding-top: 216px;
+
+}
+
+header {
+    width: 1600px;
+    height: 809px;
+    background-image: url('../images/banner/banner2.png');
+
+}
+
+.btn-pramiry {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    background: #F15B22;
+    color: #FFF;
+    margin-left:360px;
+    /* position: right; */
+    font-size: 20px;
+    font-weight: 600;
+}
